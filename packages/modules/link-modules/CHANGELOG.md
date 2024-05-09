@@ -1,5 +1,20 @@
 # @medusajs/link-modules
 
+## 0.2.12
+
+### Patch Changes
+
+- [#7225](https://github.com/medusajs/medusa/pull/7225) [`39c3f6d92a9f77b8befdde2693bd8a215080f90e`](https://github.com/medusajs/medusa/commit/39c3f6d92a9f77b8befdde2693bd8a215080f90e) Thanks [@fPolic](https://github.com/fPolic)! - Default MedusaApp schema scalar
+
+- [#7243](https://github.com/medusajs/medusa/pull/7243) [`5443c69794d77a086fbbdc68b9beaca4c8c6334e`](https://github.com/medusajs/medusa/commit/5443c69794d77a086fbbdc68b9beaca4c8c6334e) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - feat(link-module): Order Product link
+
+- [#7169](https://github.com/medusajs/medusa/pull/7169) [`9d3f49531493b4cf73def5a10a57ff0d432cc6db`](https://github.com/medusajs/medusa/commit/9d3f49531493b4cf73def5a10a57ff0d432cc6db) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - Fulfillment - shipping options with context
+
+- Updated dependencies [[`6da2964998c12bd9bcf8536e2c6fc25fab76e84a`](https://github.com/medusajs/medusa/commit/6da2964998c12bd9bcf8536e2c6fc25fab76e84a), [`f1294156505f94bfdcbe8c621f39d1655ed5314d`](https://github.com/medusajs/medusa/commit/f1294156505f94bfdcbe8c621f39d1655ed5314d), [`0430e63b0bc1b3ed9c13bb6514b22474676e9509`](https://github.com/medusajs/medusa/commit/0430e63b0bc1b3ed9c13bb6514b22474676e9509), [`a736e728b8a527119bc9ac331878a030a1e8a2f0`](https://github.com/medusajs/medusa/commit/a736e728b8a527119bc9ac331878a030a1e8a2f0), [`c32a31e1394609845a5f202b1684d70fea019dc9`](https://github.com/medusajs/medusa/commit/c32a31e1394609845a5f202b1684d70fea019dc9), [`39c3f6d92a9f77b8befdde2693bd8a215080f90e`](https://github.com/medusajs/medusa/commit/39c3f6d92a9f77b8befdde2693bd8a215080f90e), [`5228b14ca94d3a73e1af519fc0c1b12fcaefd462`](https://github.com/medusajs/medusa/commit/5228b14ca94d3a73e1af519fc0c1b12fcaefd462), [`9d3f49531493b4cf73def5a10a57ff0d432cc6db`](https://github.com/medusajs/medusa/commit/9d3f49531493b4cf73def5a10a57ff0d432cc6db)]:
+  - @medusajs/types@1.11.17
+  - @medusajs/utils@1.11.10
+  - @medusajs/modules-sdk@1.12.12
+
 ## 0.2.11
 
 ### Patch Changes

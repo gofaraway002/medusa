@@ -1,5 +1,15 @@
 # @medusajs/workflows-sdk
 
+## 0.1.7
+
+### Patch Changes
+
+- [#7183](https://github.com/medusajs/medusa/pull/7183) [`7a351eef09f769e1e28e6f136438fa30f607f34b`](https://github.com/medusajs/medusa/commit/7a351eef09f769e1e28e6f136438fa30f607f34b) Thanks [@adrien2p](https://github.com/adrien2p)! - feat(workflows-sdk): Execute workflows as step in other workflows
+
+- Updated dependencies [[`0430e63b0bc1b3ed9c13bb6514b22474676e9509`](https://github.com/medusajs/medusa/commit/0430e63b0bc1b3ed9c13bb6514b22474676e9509), [`a736e728b8a527119bc9ac331878a030a1e8a2f0`](https://github.com/medusajs/medusa/commit/a736e728b8a527119bc9ac331878a030a1e8a2f0), [`39c3f6d92a9f77b8befdde2693bd8a215080f90e`](https://github.com/medusajs/medusa/commit/39c3f6d92a9f77b8befdde2693bd8a215080f90e), [`5228b14ca94d3a73e1af519fc0c1b12fcaefd462`](https://github.com/medusajs/medusa/commit/5228b14ca94d3a73e1af519fc0c1b12fcaefd462), [`9d3f49531493b4cf73def5a10a57ff0d432cc6db`](https://github.com/medusajs/medusa/commit/9d3f49531493b4cf73def5a10a57ff0d432cc6db)]:
+  - @medusajs/utils@1.11.10
+  - @medusajs/modules-sdk@1.12.12
+
 ## 0.1.6
 
 ### Patch Changes

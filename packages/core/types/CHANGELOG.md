@@ -1,5 +1,21 @@
 # @medusajs/types
 
+## 1.11.17
+
+### Patch Changes
+
+- [#7269](https://github.com/medusajs/medusa/pull/7269) [`6da2964998c12bd9bcf8536e2c6fc25fab76e84a`](https://github.com/medusajs/medusa/commit/6da2964998c12bd9bcf8536e2c6fc25fab76e84a) Thanks [@riqwan](https://github.com/riqwan)! - feat(dashboard,core,medusa,promotion): add campaigns UI
+
+- [#7201](https://github.com/medusajs/medusa/pull/7201) [`f1294156505f94bfdcbe8c621f39d1655ed5314d`](https://github.com/medusajs/medusa/commit/f1294156505f94bfdcbe8c621f39d1655ed5314d) Thanks [@riqwan](https://github.com/riqwan)! - feat(medusa,core-flows,types): added a basic endpoint for complete cart
+
+- [#7248](https://github.com/medusajs/medusa/pull/7248) [`0430e63b0bc1b3ed9c13bb6514b22474676e9509`](https://github.com/medusajs/medusa/commit/0430e63b0bc1b3ed9c13bb6514b22474676e9509) Thanks [@riqwan](https://github.com/riqwan)! - feat(core-flows,typers,utils,medusa): add payment auth step to complete cart workflow
+
+- [#7209](https://github.com/medusajs/medusa/pull/7209) [`c32a31e1394609845a5f202b1684d70fea019dc9`](https://github.com/medusajs/medusa/commit/c32a31e1394609845a5f202b1684d70fea019dc9) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - Check stock to create reservation and support backorder
+
+- [#7250](https://github.com/medusajs/medusa/pull/7250) [`5228b14ca94d3a73e1af519fc0c1b12fcaefd462`](https://github.com/medusajs/medusa/commit/5228b14ca94d3a73e1af519fc0c1b12fcaefd462) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - Create stock reservation on complete cart flow
+
+- [#7169](https://github.com/medusajs/medusa/pull/7169) [`9d3f49531493b4cf73def5a10a57ff0d432cc6db`](https://github.com/medusajs/medusa/commit/9d3f49531493b4cf73def5a10a57ff0d432cc6db) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - Fulfillment - shipping options with context
+
 ## 1.11.16
 
 ### Patch Changes

@@ -1,5 +1,24 @@
 # @medusajs/core-flows
 
+## 0.0.10
+
+### Patch Changes
+
+- [#7201](https://github.com/medusajs/medusa/pull/7201) [`f1294156505f94bfdcbe8c621f39d1655ed5314d`](https://github.com/medusajs/medusa/commit/f1294156505f94bfdcbe8c621f39d1655ed5314d) Thanks [@riqwan](https://github.com/riqwan)! - feat(medusa,core-flows,types): added a basic endpoint for complete cart
+
+- [#7248](https://github.com/medusajs/medusa/pull/7248) [`0430e63b0bc1b3ed9c13bb6514b22474676e9509`](https://github.com/medusajs/medusa/commit/0430e63b0bc1b3ed9c13bb6514b22474676e9509) Thanks [@riqwan](https://github.com/riqwan)! - feat(core-flows,typers,utils,medusa): add payment auth step to complete cart workflow
+
+- [#7230](https://github.com/medusajs/medusa/pull/7230) [`520867b074c9b1b77ad78388d6d326058c7d8195`](https://github.com/medusajs/medusa/commit/520867b074c9b1b77ad78388d6d326058c7d8195) Thanks [@adrien2p](https://github.com/adrien2p)! - feat(fulfillment, core-flows): Apply correct address and context + cleanup
+
+- [#7250](https://github.com/medusajs/medusa/pull/7250) [`5228b14ca94d3a73e1af519fc0c1b12fcaefd462`](https://github.com/medusajs/medusa/commit/5228b14ca94d3a73e1af519fc0c1b12fcaefd462) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - Create stock reservation on complete cart flow
+
+- [#7169](https://github.com/medusajs/medusa/pull/7169) [`9d3f49531493b4cf73def5a10a57ff0d432cc6db`](https://github.com/medusajs/medusa/commit/9d3f49531493b4cf73def5a10a57ff0d432cc6db) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - Fulfillment - shipping options with context
+
+- Updated dependencies [[`7a351eef09f769e1e28e6f136438fa30f607f34b`](https://github.com/medusajs/medusa/commit/7a351eef09f769e1e28e6f136438fa30f607f34b), [`0430e63b0bc1b3ed9c13bb6514b22474676e9509`](https://github.com/medusajs/medusa/commit/0430e63b0bc1b3ed9c13bb6514b22474676e9509), [`a736e728b8a527119bc9ac331878a030a1e8a2f0`](https://github.com/medusajs/medusa/commit/a736e728b8a527119bc9ac331878a030a1e8a2f0), [`39c3f6d92a9f77b8befdde2693bd8a215080f90e`](https://github.com/medusajs/medusa/commit/39c3f6d92a9f77b8befdde2693bd8a215080f90e), [`5228b14ca94d3a73e1af519fc0c1b12fcaefd462`](https://github.com/medusajs/medusa/commit/5228b14ca94d3a73e1af519fc0c1b12fcaefd462), [`9d3f49531493b4cf73def5a10a57ff0d432cc6db`](https://github.com/medusajs/medusa/commit/9d3f49531493b4cf73def5a10a57ff0d432cc6db)]:
+  - @medusajs/workflows-sdk@0.1.7
+  - @medusajs/utils@1.11.10
+  - @medusajs/modules-sdk@1.12.12
+
 ## 0.0.9
 
 ### Patch Changes

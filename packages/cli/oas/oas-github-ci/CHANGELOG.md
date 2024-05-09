@@ -1,5 +1,14 @@
 # @medusajs/oas-github-ci
 
+## 1.0.28
+
+### Patch Changes
+
+- [#7245](https://github.com/medusajs/medusa/pull/7245) [`651b953db79c9002c7f502fbbeee44319670ff74`](https://github.com/medusajs/medusa/commit/651b953db79c9002c7f502fbbeee44319670ff74) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(medusa-oas-cli, oas-github-ci): updated paths to docs directories following monorepo reorganization
+
+- Updated dependencies [[`651b953db79c9002c7f502fbbeee44319670ff74`](https://github.com/medusajs/medusa/commit/651b953db79c9002c7f502fbbeee44319670ff74)]:
+  - @medusajs/medusa-oas-cli@0.3.3
+
 ## 1.0.27
 
 ### Patch Changes

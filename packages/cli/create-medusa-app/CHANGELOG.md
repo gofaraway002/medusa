@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.2.9
+
+### Patch Changes
+
+- [#7253](https://github.com/medusajs/medusa/pull/7253) [`e7a35283678474b93364dac44da125bbf973aea0`](https://github.com/medusajs/medusa/commit/e7a35283678474b93364dac44da125bbf973aea0) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(create-medusa-app): don't open browser to admin if v2 option is passed
+
 ## 1.2.8
 
 ### Patch Changes
